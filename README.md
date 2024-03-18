@@ -9,6 +9,8 @@
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelippe011&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelippe011&layout=compact)
+
 ### Tecnologias que uso no meu dia 
 <div style="display: inline_block"><br/>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
