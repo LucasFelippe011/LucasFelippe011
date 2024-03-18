@@ -1,4 +1,4 @@
-### Olha!! Sou Lucas Felippe 👋
+### Olá!! Sou Lucas Felippe 👋
 
 - 🔭 Estudo Back-end
 - 🌱 Aprendendo java.
