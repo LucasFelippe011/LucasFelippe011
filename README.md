@@ -9,7 +9,7 @@
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelippe011&show_icons=true&theme=dracula) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelippe011&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelippe011&langs_count=8)
 
 
 
