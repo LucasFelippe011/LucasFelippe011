@@ -7,9 +7,9 @@
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfelippe10/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfesiqueira10@gmail.com")
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelippe011&show_icons=true&theme=dracula)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFelippe011&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelippe011&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelippe011&layout=compact)
+
 
 ### Tecnologias que uso no meu dia 
 <div style="display: inline_block"><br/>
